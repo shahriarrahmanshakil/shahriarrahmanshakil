@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarrahmanshakil&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=shahriarrahmanshakil)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarrahmanshakil&show_icons=true)![GitHub streak stats](https://streak-stats.demolab.com/?user=shahriarrahmanshakil)
 # Shahriar Rahman Shakil
 ## Full Stack Web Developer
 
